@@ -9,3 +9,4 @@ LINK PARA O FIGMA:https://www.figma.com/design/MnYkd2Q9YNQSoSa92OkoYT/Untitled?n
 Documento de requisição:https://github.com/user-attachments/files/17237446/Documento.de.requisicao.cineinfo.docx
 
 API:https://www.omdbapi.com/
+123
